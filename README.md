@@ -1,4 +1,4 @@
-# DSC530 - Efficacy of MLB Switch Hitters
+# Efficacy of MLB Switch Hitters
 
 The idea behind this project was to determine if switch hitters were actually "worth it" or if they should just focus on hitting with their strongest hand.
 This project made use of the [ThinkStats](https://github.com/AllenDowney/ThinkStats2) repo from Alan Downey.
